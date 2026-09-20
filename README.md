@@ -27,3 +27,15 @@ cd /usr/lib/zabbix/alertscripts
 ./sms.php 31123451234 "test" "this is a test"
 ```
 ![Zabbix SMS media config](zabbix_sms_script_config.png)
+
+<!-- repository-guidance:begin -->
+## Contributing and agent guidance
+
+- [Contributor guide](CONTRIBUTING.md): development workflow and validation.
+- [Agent instructions](AGENTS.md): shared guidance for Codex and other coding agents.
+- [Security policy](SECURITY.md): private vulnerability reporting.
+
+## Repository license
+
+MIT licensed; see [LICENSE](LICENSE). Preserve third-party notices.
+<!-- repository-guidance:end -->
